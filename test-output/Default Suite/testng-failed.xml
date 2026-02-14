@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DarazAutomationTest.java(failed)">
+    <classes>
+      <class name="TC_01ANdTC_03">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testProductVariantUpdates"/>
+        </methods>
+      </class> <!-- TC_01ANdTC_03 -->
+    </classes>
+  </test> <!-- DarazAutomationTest.java(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
